@@ -1,0 +1,10 @@
+C:\Demo_Productjxc\Code\Model\bin\Debug\Productjxc.Model.dll
+C:\Demo_Productjxc\Code\Model\bin\Debug\Productjxc.Model.pdb
+C:\Demo_Productjxc\Code\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo_Productjxc\Code\Model\obj\Debug\Productjxc.Model.dll
+C:\Demo_Productjxc\Code\Model\obj\Debug\Productjxc.Model.pdb
+C:\Users\2her\Desktop\Demo_Productjxc\Code\Model\bin\Debug\Productjxc.Model.dll
+C:\Users\2her\Desktop\Demo_Productjxc\Code\Model\bin\Debug\Productjxc.Model.pdb
+C:\Users\2her\Desktop\Demo_Productjxc\Code\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\2her\Desktop\Demo_Productjxc\Code\Model\obj\Debug\Productjxc.Model.dll
+C:\Users\2her\Desktop\Demo_Productjxc\Code\Model\obj\Debug\Productjxc.Model.pdb

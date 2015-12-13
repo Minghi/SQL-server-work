@@ -1,0 +1,12 @@
+C:\Demo_Productjxc\Code\DBUtility\bin\Debug\Productjxc.DBUtility.dll
+C:\Demo_Productjxc\Code\DBUtility\bin\Debug\Productjxc.DBUtility.pdb
+C:\Demo_Productjxc\Code\DBUtility\bin\Debug\MySql.Data.dll
+C:\Demo_Productjxc\Code\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo_Productjxc\Code\DBUtility\obj\Debug\Productjxc.DBUtility.dll
+C:\Demo_Productjxc\Code\DBUtility\obj\Debug\Productjxc.DBUtility.pdb
+C:\Users\2her\Desktop\Demo_Productjxc\Code\DBUtility\bin\Debug\Productjxc.DBUtility.dll
+C:\Users\2her\Desktop\Demo_Productjxc\Code\DBUtility\bin\Debug\Productjxc.DBUtility.pdb
+C:\Users\2her\Desktop\Demo_Productjxc\Code\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\2her\Desktop\Demo_Productjxc\Code\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\2her\Desktop\Demo_Productjxc\Code\DBUtility\obj\Debug\Productjxc.DBUtility.dll
+C:\Users\2her\Desktop\Demo_Productjxc\Code\DBUtility\obj\Debug\Productjxc.DBUtility.pdb

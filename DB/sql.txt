@@ -1,0 +1,47 @@
+Create Table Store(
+	StoNO Varchar(50) not null Primary Key,
+	AdminName Varchar(50) not null£¬
+	AdminPwd Varchar(20) not null
+);
+
+Create Table Product(
+	ProNO Varchar(50) identity(1,1) not null,
+	ProName Varchar(50) not null,
+	ProPrice float Default(2),
+	StoNO Varchar(50),
+	StoCount int,
+
+	constraint pk_Product primary key (ProNO),
+	constraint fk_Product_Store foreign key(StoNO) references Store(StoNO)
+);
+
+Create Table Contractor(
+	ConNO Varchar(50) not null Primary Key,
+	ConName Varchar(50) not null,
+	ConAddress Varchar(50)
+);
+
+
+Create Table Customer(
+	CusNO Varchar(50) not null Primary Key,
+	CusName Varchar(50) not null,
+	CusTel Varchar(20) not null
+);
+
+Create Table P_CON(
+	ProNO Varchar(50) not null,
+	ConNO Varchar(50) not null,
+	ImportCount int,
+
+	constraint pk_PCON primary key (ProNO,ConNO)
+);
+
+Create Table P_CUS(
+	ProNO Varchar(50) not null,
+	CusNO Varchar(50) not null,
+	SaleCount int,
+	StaffName Varchar(50) not null,
+	SalePrice float Default(2),
+
+	constraint pk_PCUS primary key (ProNO,CusNO)
+);
