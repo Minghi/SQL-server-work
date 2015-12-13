@@ -1,6 +1,6 @@
 Create Table Store(
 	StoNO Varchar(50) not null Primary Key,
-	AdminName Varchar(50) not null£¬
+	AdminName Varchar(50) not null,
 	AdminPwd Varchar(20) not null
 );
 
