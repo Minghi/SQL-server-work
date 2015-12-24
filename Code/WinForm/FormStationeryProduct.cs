@@ -36,7 +36,10 @@ namespace WinForm
 
         private void ModifyRecordToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Modify formtemp = new Modify();
+            string ProNO;
+            int index = dataGridView1.CurrentRow.Index;
+            ProNO = dataGridView1["ProNO", index].Value.ToString().Trim();
+            Modify formtemp = new Modify(ProNO);
             formtemp.StartPosition = FormStartPosition.CenterScreen;
             formtemp.Show();
         }

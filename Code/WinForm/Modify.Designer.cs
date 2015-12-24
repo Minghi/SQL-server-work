@@ -88,8 +88,10 @@
             // 
             // textBoxProNO
             // 
+            this.textBoxProNO.Enabled = false;
             this.textBoxProNO.Location = new System.Drawing.Point(184, 90);
             this.textBoxProNO.Name = "textBoxProNO";
+            this.textBoxProNO.ReadOnly = true;
             this.textBoxProNO.Size = new System.Drawing.Size(100, 21);
             this.textBoxProNO.TabIndex = 17;
             // 
@@ -170,6 +172,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Modify";
             this.Text = "修改记录";
+            this.Load += new System.EventHandler(this.modify_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -5,7 +5,7 @@ Create Table Store(
 );
 
 Create Table Product(
-	ProNO Varchar(50) identity(1,1) not null,
+	ProNO Varchar(50) not null,
 	ProName Varchar(50) not null,
 	ProPrice float Default(2),
 	StoNO Varchar(50),
